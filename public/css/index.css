@@ -1,0 +1,71 @@
+*{
+    font-family: 'Edu SA Beginner', cursive;
+}
+html{
+    background-color: #fcd703;
+    
+}
+/* navbar */
+.container-fluid{
+    background-color: black;
+    margin-top: 0px;
+}
+ul{
+    margin-left: 250px;
+}
+nav{
+    padding: 0px;
+    font-size: 21px;
+}
+.logo{
+    height:50px;
+
+}
+ul.abo{
+margin-left: 150px;
+}
+ a.nav-link,a.navbar-brand{
+    color:#dad9d9d6;
+}
+a.nav-link.active{
+    color: #fcd703;
+    text-decoration: underline;
+}
+a.nav-link:hover,a.navbar-brand,a.navbar-brand:hover{
+    color: #fcd703;
+}
+span{
+    margin-left: 31px;
+}
+.visibility{
+    visibility: hidden;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+div.Heading{
+    background-color: #fcd703;
+
+padding-left: 13rem;
+
+padding-top: 10rem;
+padding-bottom: 5rem;
+}
+header{
+    background-color: #fcd703;
+    padding-bottom: 4rem;
+}
+div.abt{
+    padding-top: 1.5rem;
+    
+    color: #fcd703;
+    padding-bottom:1.5rem ;
+    
+}
+#about{
+    color: white;
+    font-weight: 50;
+    
+}
